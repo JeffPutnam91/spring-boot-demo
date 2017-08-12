@@ -23,6 +23,7 @@ gradle-app.setting
 .settings/
 .classpath
 .project
+/bin/
 
 # IntelliJ project files 
 *.iml
